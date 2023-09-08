@@ -1,3 +1,3 @@
 # Replit
 Replit Python Bootcamp
-print('Hello World!')
+print('See all my Python projects created over the bootcamp journey!')
