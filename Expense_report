@@ -1,0 +1,4 @@
+It contains the CSV file of the expense report
+The .py file where the file import and plotting of graphs in pandas were generated
+The HTML version of the graphs which were plotted
+The expense report in the .pdf format for better visualization
